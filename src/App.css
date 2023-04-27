@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.board{
+  background: crimson;
+  margin-top: 15px;
+}
+.myBtn{
+  cursor:pointer;
+  margin-top: 5px;
+  margin-right: 5px;
+}
